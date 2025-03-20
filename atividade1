@@ -1,5 +1,5 @@
-nome = "Miguel"
-modelo_carro = "Fiat Fastback"
-idade = "16"
-amor = "mulher"
-print(f"Meu nome é {nome} e tenho {idade} anos e um carro que eu pretendo comprar futuramente é o {modelo_carro} pra levar minha {amor}.")
+nome = "À Delícia"
+modelo_carro = "Pálio 1897"
+idade = "12"
+amor = "Brotheragens"
+print(f"Meu nome é {nome} e tenho {idade} anos e um carro que eu pretendo comprar futuramente é o {modelo_carro} pra continuar minhas {amor}.")
